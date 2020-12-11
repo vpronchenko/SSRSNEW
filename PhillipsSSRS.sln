@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1300
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRS", "SSRS\SSRS.rptproj", "{B1B5177F-AA83-4010-98C6-42803CB1121A}"
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "PhillipsSSRS", "PhillipsSSRS\PhillipsSSRS.rptproj", "{BD2ACDF0-EF87-4358-A9CA-2A6D0ACC7CA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,14 +12,14 @@ Global
 		Release|Default = Release|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B1B5177F-AA83-4010-98C6-42803CB1121A}.Debug|Default.ActiveCfg = Debug
-		{B1B5177F-AA83-4010-98C6-42803CB1121A}.Debug|Default.Build.0 = Debug
-		{B1B5177F-AA83-4010-98C6-42803CB1121A}.Debug|Default.Deploy.0 = Debug
-		{B1B5177F-AA83-4010-98C6-42803CB1121A}.DebugLocal|Default.ActiveCfg = DebugLocal
-		{B1B5177F-AA83-4010-98C6-42803CB1121A}.DebugLocal|Default.Build.0 = DebugLocal
-		{B1B5177F-AA83-4010-98C6-42803CB1121A}.Release|Default.ActiveCfg = Release
-		{B1B5177F-AA83-4010-98C6-42803CB1121A}.Release|Default.Build.0 = Release
-		{B1B5177F-AA83-4010-98C6-42803CB1121A}.Release|Default.Deploy.0 = Release
+		{BD2ACDF0-EF87-4358-A9CA-2A6D0ACC7CA9}.Debug|Default.ActiveCfg = Debug
+		{BD2ACDF0-EF87-4358-A9CA-2A6D0ACC7CA9}.Debug|Default.Build.0 = Debug
+		{BD2ACDF0-EF87-4358-A9CA-2A6D0ACC7CA9}.Debug|Default.Deploy.0 = Debug
+		{BD2ACDF0-EF87-4358-A9CA-2A6D0ACC7CA9}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{BD2ACDF0-EF87-4358-A9CA-2A6D0ACC7CA9}.DebugLocal|Default.Build.0 = DebugLocal
+		{BD2ACDF0-EF87-4358-A9CA-2A6D0ACC7CA9}.Release|Default.ActiveCfg = Release
+		{BD2ACDF0-EF87-4358-A9CA-2A6D0ACC7CA9}.Release|Default.Build.0 = Release
+		{BD2ACDF0-EF87-4358-A9CA-2A6D0ACC7CA9}.Release|Default.Deploy.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
